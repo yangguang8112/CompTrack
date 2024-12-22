@@ -4,6 +4,8 @@
 
 | 时间-序号.项目名称 | 算法比赛 | 队名 | 排名 | 🏆 | 比赛链接 | 相关文档 |
 | --- | --- | --- | --- | --- | --- | --- |
+|2024.11-aistudio_aidrug |	第二届全球AI药物研发算法大赛	|yg948398165的团队|	R26/656	|✨|	[aistudio drug](https://aistudio.baidu.com/competition/detail/1214/0/task-definition)	| |
+|2024.09-sais_sirna	| 第二届世界科学智能大赛生命科学赛道：siRNA药物药效预测 |	二十一世纪是生命科学的 |	R15/2249	|✨	| [SAIS SiRNA](http://competition.sais.com.cn/competitionDetail/532230/format)	||
 | 2024.07-kaggle_belka | NeurIPS 2024 - Predict New Medicines with BELKA | raw2clean | R181 / 1950 | 💤 Bronze Medal | [Kaggle leash BELKA](https://www.kaggle.com/competitions/leash-BELKA) | [Certification](https://www.kaggle.com/certification/competitions/raw2clean/leash-BELKA) |
 | 2024.06-mengma_eu | 2024 Mammoth International Contest On Omics Sciences in Europe | BioSynAI |  R5 | ✨ 优胜奖 | [MICOS Europe 2024](https://micos.cngb.org/europe/index.html) | [Certification](https://github.com/yangguang8112/CompTrack/blob/main/2024.06-mengma_eu/Award_for_MICOS-EU_2024_Yang_Guang.png) |
 | 2024.05-ai4s_cup_Enzy_var_seq | AI4S Cup - 酶功能与突变序列间的关系预测 |  |  R19 | ✨ | [Bohrium AI4S Cup](https://bohrium.dp.tech/competitions/3812328860) |  |
